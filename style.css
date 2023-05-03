@@ -1,0 +1,32 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+body{
+  background-color: #fff8e7;
+}
+img{position:relative;
+    right:-875px;
+   }
+.h-one{position:relative;
+      right:-800px;
+      }
+
+.rest{
+  position:relative;
+    right:-500px;
+  color: #ED820E;
+}
+
+  .hr{
+    color:cyan;
+  }
+
+.write{
+  position:relative;
+    right:-500px;
+  color: black;
+  font-weight:bold ;
+  font-family: serif;
+  font-size: 20px;
+}
